@@ -41,10 +41,8 @@ const Container = styled.div`
 `
 const Title = styled.span``
 const Price = styled.span`
-  font-weight: 500;
+  font-weight: bold;
   margin-top; 3px;
-
-
 `
 const Rating = styled.div``
 const Image = styled.img`
